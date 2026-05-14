@@ -162,5 +162,5 @@ _Add screenshots in /images folder_
 
 ---
 
-## 👤 Author
-Adarsh Ankur
+## 📂 Resources 
+- Live Report: [[Churn Analysis](https://app.powerbi.com/view?r=eyJrIjoiODIwZWJkOTktODVlZS00Y2YzLThkNzYtNmIzYzE4NDFjOGRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)]
